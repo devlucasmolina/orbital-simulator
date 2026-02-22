@@ -27,6 +27,7 @@ Small errors in velocity or direction can determine whether a spacecraft crashes
 - Bounded altitude over long runs
 
 ## Results
+
 ![Orbit Path](orbit_path.png)
-![Speed vs Time](speed_vs_time.png)
-![Altitude vs Time](altitude_vs_time.png)
+![Launch Speed vs Time](launch_speed.png)
+![Launch Altitude vs Time](launch_altitude.png)
